@@ -26,7 +26,7 @@ npm run dev
 
 ## Usage
 
-To use this application, send a POST request to the `[your local tunnel]` endpoint with your data in the request body. The application will return a response if the request is successful.
+To use this application, send a POST request to your tunnel `[http://tunnel-name.loca.lt]` endpoint with your data in the request body. The application will return a response if the request is successful.
 
 ## Error Handling
 
