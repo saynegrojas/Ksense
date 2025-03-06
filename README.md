@@ -10,7 +10,7 @@ To get started with this application, follow these steps:
 3. Start the application: `npm run start`
 4. Create an .env file.
 5. Install localtunnel: `npm install -g localtunnel`
-1. Start localtunnel specifying the port `lt --port [PORT]` (Make to expose your local tunnel by verifying the password)
+1. Start localtunnel specifying the port `lt --port [PORT]` (Make sure to expose your local tunnel by verifying the password)
 
 First, run the development server:
 
